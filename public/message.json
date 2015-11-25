@@ -1,0 +1,17 @@
+{
+	"MSG001":"O registro não pode ser salvo. Verifique os erros e tente novamente.",
+	"MSG002":"O registro foi salvo com sucesso!",
+	"MSG003":"O registro procurado não pode ser encontrado. Tente novamente.",
+	"MSG004":"O registro não pode ser atualizado. Verifique os erros e tente novamente.",
+	"MSG005":"O registro foi atualizado com sucesso!",
+	"MSG006":"O registro foi apagado com sucesso!",
+	"MSG007":"Ocorreu algum erro!!! O registro não pode ser apagado.",
+	"MSG008":"Você foi logado com sucesso!",
+	"MSG009":"Login e/ou senha incorretos.",
+	"MSG010":"Você foi desconectado do sistema.",
+	"MSG011":"Não há informações cadastradas no sistema.",
+	"MSG012":"Usuário inativado no sistema.",
+	"MSG013":"Você não possui <b>PERMISSÃO</b> para acessar essa funcionalidade.",
+	"MSG014":"Registro inativado com sucesso.",
+	"MSG015":"Ocorreu algum erro!!! O registro não pode ser atualizado."
+}
